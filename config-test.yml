@@ -5,7 +5,7 @@ env: test3
 
 spring:
   application:
-    name: order
+    name: config-client
   datasource:
     driverClassName: com.mysql.jdbc.Driver
     username: root
